@@ -547,3 +547,4 @@ persist associations between things!
 * [Blog CLI with Active Record and Associations](https://www.youtube.com/watch?v=ZfJ1rqFcNFU)
 
 
+# Phase3AssociationsAndMigrations
